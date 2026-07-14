@@ -1,6 +1,6 @@
 # DeupGaming — Gost Docker Proxy
 
-Single-container WebSocket proxy bridge using [Gost](https://github.com/ginuerzh/gost) over Railway.
+Single-container WebSocket proxy bridge using [Gost](https://github.com/ginuerzh/gost).
 
 ## Usage (host)
 
