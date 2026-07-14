@@ -65,4 +65,4 @@ curl -x http://127.0.0.1:8796 https://ifconfig.me
 
 ---
 
-*Powered and Maintained by DeupGaming*
+*Powered and Maintained by [@dev3abdullah](https://github.com/dev3abdullah)*
